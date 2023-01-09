@@ -1,0 +1,50 @@
+{
+  "restoreTerminals.terminals": [
+    {
+      "splitTerminals": [
+        {
+          "name": "cf-aem-spa-cli",
+          "commands": [
+            "cd /d/projects/celfocus/cfdigital-dxp-aem-react-core"
+          ]
+        },
+        {
+          "name": "cf-aem-spa-run",
+          "commands": [
+            "cd /d/projects/celfocus/cfdigital-dxp-aem-react-core"
+          ]
+        },
+      ]
+    },
+    {
+      "splitTerminals": [
+        {
+          "name": "pm-cli",
+          "commands": [
+            "cd /d/projects/personal/papermodels"
+          ]
+        }
+      ]
+    },
+    {
+      "splitTerminals": [
+        {
+          "name": "pm-run",
+          "commands": [
+            "cd /d/projects/personal/papermodels"
+          ]
+        }
+      ]
+    },
+    {
+      "splitTerminals": [
+        {
+          "name": "pm-test",
+          "commands": [
+            "cd /d/projects/personal/papermodels"
+          ]
+        },
+      ]
+    }
+  ],
+}
