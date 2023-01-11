@@ -7,7 +7,11 @@
           "commands": [
             "cd /d/projects/celfocus/cfdigital-dxp-aem-react-core"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "splitTerminals": [
         {
           "name": "cf-aem-spa-run",
           "commands": [
