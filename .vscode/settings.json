@@ -3,6 +3,16 @@
     {
       "splitTerminals": [
         {
+          "name": "global-cli",
+          "commands": [
+            "cd /d/projects"
+          ]
+        }
+      ]
+    },
+    {
+      "splitTerminals": [
+        {
           "name": "cf-aem-spa-cli",
           "commands": [
             "cd /d/projects/celfocus/cfdigital-dxp-aem-react-core"
