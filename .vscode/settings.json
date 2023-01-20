@@ -25,7 +25,7 @@
         {
           "name": "cf-aem-spa-run",
           "commands": [
-            "cd /d/projects/celfocus/cfdigital-dxp-aem-react-core"
+            "cd /d/projects/celfocus/cfdigital-dxp-aem-react-core/ui.frontend"
           ]
         },
       ]
