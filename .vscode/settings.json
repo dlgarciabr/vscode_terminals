@@ -33,16 +33,6 @@
     {
       "splitTerminals": [
         {
-          "name": "pm-cli",
-          "commands": [
-            "cd /d/projects/personal/papermodels"
-          ]
-        }
-      ]
-    },
-    {
-      "splitTerminals": [
-        {
           "name": "pm-run",
           "commands": [
             "cd /d/projects/personal/papermodels"
@@ -58,6 +48,16 @@
             "cd /d/projects/personal/papermodels"
           ]
         },
+      ]
+    },
+    {
+      "splitTerminals": [
+        {
+          "name": "pm-cli",
+          "commands": [
+            "cd /d/projects/personal/papermodels"
+          ]
+        }
       ]
     }
   ],
