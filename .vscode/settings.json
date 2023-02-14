@@ -59,6 +59,16 @@
           ]
         }
       ]
+    },
+    {
+      "splitTerminals": [
+        {
+          "name": "file-downloader",
+          "commands": [
+            "cd /d/projects/personal/file-downloader"
+          ]
+        }
+      ]
     }
   ],
 }
