@@ -13,26 +13,6 @@
     {
       "splitTerminals": [
         {
-          "name": "cf-aem-spa-cli",
-          "commands": [
-            "cd /d/projects/celfocus/cfdigital-dxp-aem-react-core"
-          ]
-        }
-      ]
-    },
-    {
-      "splitTerminals": [
-        {
-          "name": "cf-aem-spa-run",
-          "commands": [
-            "cd /d/projects/celfocus/cfdigital-dxp-aem-react-core/ui.frontend"
-          ]
-        },
-      ]
-    },
-    {
-      "splitTerminals": [
-        {
           "name": "pm-run",
           "commands": [
             "cd /d/projects/personal/papermodels"
@@ -56,16 +36,6 @@
           "name": "pm-cli",
           "commands": [
             "cd /d/projects/personal/papermodels"
-          ]
-        }
-      ]
-    },
-    {
-      "splitTerminals": [
-        {
-          "name": "file-downloader",
-          "commands": [
-            "cd /d/projects/personal/file-downloader"
           ]
         }
       ]
